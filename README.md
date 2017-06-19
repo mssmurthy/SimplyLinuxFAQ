@@ -1,2 +1,0 @@
-# SimplyLinuxFAQ
-Hello All
